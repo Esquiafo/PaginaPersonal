@@ -1,10 +1,13 @@
-.aa{
-    background-color: red;
-}
 
 .navbar-collapse{
     justify-content: center;
 }
-.navbar-toggler{
-    background-color: red;
+.footer{
+    padding: 2rem 1.5rem 2rem;
+}
+.navbar-toggler-icon{
+    color: red;
+}
+.title{
+    text-align: center;
 }
