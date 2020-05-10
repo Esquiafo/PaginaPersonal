@@ -11,3 +11,9 @@
 .title{
     text-align: center;
 }
+br {
+    
+    margin-bottom: 5px;
+    font-size:2px;
+    line-height: 2px;
+}
