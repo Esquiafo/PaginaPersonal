@@ -1,0 +1,33 @@
+{
+  "name": "leonardo-capone-page",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./src/bin/www"
+  },
+  "dependencies": {
+    "debug": "~2.6.9",
+    "ejs": "^2.6.2",
+    "express": "^4.16.4",
+    "http-errors": "~1.6.3",
+    "method-override": "^3.0.0",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.3"
+  },
+  "description": "Leonardo Capone Page",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esquiafo/PaginaPersonal"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esquiafo/PaginaPersonal"
+  },
+  "homepage": "https://github.com/Esquiafo/PaginaPersonal#readme",
+  "devDependencies": {},
+  "directories": {
+    "doc": "docs"
+  }
+}
