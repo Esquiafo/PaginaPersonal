@@ -17,3 +17,6 @@ br {
     font-size:2px;
     line-height: 2px;
 }
+.column{
+    display: grid;
+}
