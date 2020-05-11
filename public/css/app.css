@@ -1,13 +1,12 @@
 
 .navbar-collapse{
+    background-color: none;
     justify-content: center;
 }
 .footer{
     padding: 2rem 1.5rem 2rem;
 }
-.navbar-toggler-icon{
-    color: red;
-}
+
 .title{
     text-align: center;
 }
@@ -19,4 +18,23 @@ br {
 }
 .column{
     display: grid;
+}
+.hero-body{
+   
+  background: #6EB5C0; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #6EB5C0, rgb(121, 212, 226)); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #6EB5C0, rgb(121, 212, 226)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.navbar{
+    background: #6EB5C0; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, rgb(160, 196, 223), rgb(54, 130, 168)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6EB5C0, rgb(121, 212, 226)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+.footer{
+    background: #6EB5C0; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6EB5C0, rgb(121, 212, 226)); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6EB5C0, rgb(121, 212, 226)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
 }
